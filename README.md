@@ -1,2 +1,2 @@
 # Integracion-de-los-datos
-Destinado para la carga de los archivos desarrollados en la plataforma Google Colab de la Asignatura Integracion y Prospectiva de los datos.
+Intended for uploading the files developed in the Google Colab platform of the Integracion y Prospectiva de los datos (Data Integration and Prospective) course.
